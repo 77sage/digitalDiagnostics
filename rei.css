@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+background-color:#000;
+}
+
+#wrapper {
+	background-color: #000;
+	width: 750px;
+}
+
+#blue {
+	background-color: #000 ;
+	width: 350px;
+	height: 450px;
+	float:left;
+	margin-left: 290px;
+	margin-top: 600px;
+}
